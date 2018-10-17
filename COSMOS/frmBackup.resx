@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Leia com atenção
+BACKUP (COPIA DE SEGURANÇA) DO BANCO DE DADOS DO SISTEMA.
+a) O backup deverá ser feito pelo menos uma vez ao dia, no local desejado. Exemplo: Disco Local (C:\, D:\, etc.), HD externo, Pendrive, etc...
+b) Caso o backup for feito no mesmo local do backup anterior, então o novo backup vai sobrescrever o velho.
+c) Aconselhamos fazer backup em mídia diferente pelo menos uma vez por mês, para ficar com uma cópia mensal.  
+d) Aconselhamos guardar o backup em local seguro, de preferência em local diferente do trabalho, pois em caso de perda ou acidente das informações originais poderemos restaurar as informações através do backup.
+e) Sugerimos gravar o backup em mídias diferentes e trocar de mídia após certo tempo de uso, pelo motivo de desgaste físico.  
+f) Verificar integridade do backup. Depois de realizado, verificar a data dos últimos lançamentos no sistema. Essas datas deverão ser do dia atual para ter certeza que a cópia esta correta.
+Qualquer dúvida, entrar em contato com nossa equipe de suporte técnico.
+OBS: A New Era Info, em parceria com empresas de DATACENTERS, também dispõe aos nossos clientes um serviço de BACKUP EXTERNO automático e supervisionado, com mais segurança e eficiência. Esse serviço faz a cópia diária do banco de dados automaticamente, enviando as informações para DATACENTERS de forma criptografada e com redundância, ou seja, as informações são armazenadas em mais de dois servidores distintos.  Caso haja interesse nesse serviço entrar em contato com nossa equipe.
+
+A Qualquer momento pode ocorrer falhas, perda ou acidente. Então e melhor prevenir.
+
+New Era Info - Web Design e Informática Ltda.
+AGO/2016.</value>
+  </data>
+  <metadata name="fbdProcuraBackup.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAFBQAAAAAIAC4BgAAFgAAACgAAAAUAAAAKAAAAAEAIAAAAAAAQAYAAAAAAAAAAAAAAAAAAAAA
+        AAD///8A/v7+AP7+/gD+/v4A/v7+AP///wD+/v4A/v7+AP79/ADryn4AsX5+DP38/AD+/v4A/v7+AP7+
+        /gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD9/fsA68p+ANmY
+        AYJmAQH/sX5+Mfz7+wD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+
+        /gD+/v4A/v37AOvKfgDZmAKA2ZcA/2UAAP9nAgL/sX5+Q/z7+wD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+
+        /gD+/v4A/v7+AP7+/gD+/v4A/v7+AP79/ADsyn4A2ZgCf9mXAP/ZlwD/ZQAA/2UAAP9nAgL/sX5+Qv38
+        /AD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A68p+ANmYAX3ZlwD/2ZcA/9mX
+        AP9lAAD/ZQAA/2UAAP9mAQH/sX5+MP7+/gD+/v4A/v7+AP7+/gD+/v4A////AP7+/gD+/v4A/v38AOvK
+        fADalwCI2ZcA/9mXAP/ZlwD/2ZcA/2UAAP9lAAD/ZQAA/2UAAP9lAAD/sX5+C/38/AD+/v4A/v7+AP7+
+        /gD+/v4A/v7+AP79+wDryXwA2ZgBjNmXAP/ZlwD/2ZcA/9mXAP/ZlwD/ZQAA/2UAAP9lAAD/ZQAA/2UA
+        AP9mAQH/sX5+MPz7+wD+/v4A/v7+AP7+/gD9/fsA68p+ANmYAobZlwD/2ZcA/9mXAP/ZlwD/2ZcA/9mX
+        AP9lAAD/ZQAA/2UAAP9lAAD/ZQAA/2UAAP9nAgL/sX5+Q/z7+wD+/v4A/v38AOvKfgDZmAJ12ZcA/9mX
+        AP/ZlwD/2ZcA/9mXAP/ZlwD/2ZcA/2UAAP9lAAD/ZQAA/2UAAP9lAAD/ZQAA/2UAAP9nAgL/sX5+Q/38
+        /ADsyn4A2ZgBUNmXAP/ZlwD/2ZcA/9mXAP/ZlwD/2ZcA/9mXAP/ZlwD/ZQAA/2UAAP9lAAD/ZQAA/2UA
+        AP9lAAD/ZQAA/2UAAP9mAQH/sX5+Mf7LsQ3+mWb//phl//6YZf/+mGX//phl//6YZf/+mGX//phl//6Y
+        Zf/LADL/ywAy/8sAMv/LADL/ywAy/8sAMv/LADL/ywAy/8wCNP/kfpj//v39AP7KsTH+mWf//phl//6Y
+        Zf/+mGX//phl//6YZf/+mGX//phl/8sAMv/LADL/ywAy/8sAMv/LADL/ywAy/8sAMv/MAzT/5YCZ//78
+        /Cj+/v4A/v38AP7KsUT+mWf//phl//6YZf/+mGX//phl//6YZf/+mGX/ywAy/8sAMv/LADL/ywAy/8sA
+        Mv/LADL/zAM0/+WAmf/9+/w9/v7+AP7+/gD+/v4A/v38AP7KsUP+mWb//phl//6YZf/+mGX//phl//6Y
+        Zf/LADL/ywAy/8sAMv/LADL/ywAy/8wCNP/lgJn//fv8Pf7+/gD+/v4A/v7+AP7+/gD+/v4A/v39AP7K
+        sTL+mGX//phl//6YZf/+mGX//phl/8sAMv/LADL/ywAy/8sAMv/LADL/5YCZ//78/Cj+/v4A/v7+AP7+
+        /gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7LsQ3+mWb//phl//6YZf/+mGX/ywAy/8sAMv/LADL/zAI0/+WA
+        mf/+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v39AP7LsTH+mWf//phl//6Y
+        Zf/LADL/ywAy/8wDNP/lgJn//vz8KP7+/gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+
+        /gD+/v4A/v38AP7KsUP+mWf//phl/8sAMv/MAzT/5YCZ//37/D3+/v4A/v7+AP7+/gD+/v4A/v7+AP7+
+        /gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v38AP7KsUT+mWb/zAI0/+WAmf/9+/w9/v7+AP7+
+        /gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/v39AP7K
+        sTHkfpj//vz8KP7+/gD+/v4A/v7+AP7+/gD+/v4A/v7+AP7+/gD+/v4A/9/wAP+P8AD/B/AA/gPwAPwB
+        8AD4APAA8ABwAOAAMADAABAAgAAAAAAAAACAAAAAwAAQAOAAMADwAHAA+AHwAPwB8AD+A/AA/wfwAP+P
+        8AA=
+</value>
+  </data>
+</root>

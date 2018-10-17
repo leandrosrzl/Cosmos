@@ -1,0 +1,160 @@
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.exe.config
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.exe
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.pdb
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmPrincipal.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.Properties.Resources.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.csproj.GenerateResource.Cache
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.exe
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.pdb
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmLogin.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerProdutos.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerVendas.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerVendedores.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncVendedor.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerRevistas.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncRevistas.resources
+\\leandro-pc\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.exe.config
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.exe
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.pdb
+\\leandro-pc\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.exe
+\\leandro-pc\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.pdb
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.csprojResolveAssemblyReference.cache
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerRevistas.resources
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerProdutos.resources
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerVendas.resources
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerVendedores.resources
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncRevistas.resources
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncVendedor.resources
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmLogin.resources
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmPrincipal.resources
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.Properties.Resources.resources
+\\leandro-pc\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.csproj.GenerateResource.Cache
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncProdutos.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmAlterarSenha.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncVenda.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmRelPedidos.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.AboutBox1.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\rRelPedidos.rdlc
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.exe.manifest
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.application
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.exe.manifest
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.application
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.csprojResolveAssemblyReference.cache
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\COSMOS.exe.config
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.exe
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.pdb
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\rRelPedidos.rdlc
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\COSMOS.exe.manifest
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\COSMOS.application
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\COSMOS.exe
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\COSMOS.pdb
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.csprojResolveAssemblyReference.cache
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.AboutBox1.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmAlterarSenha.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerRevistas.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerProdutos.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerVendas.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerVendedores.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncProdutos.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncRevistas.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncVenda.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncVendedor.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmLogin.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmPrincipal.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmRelPedidos.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.Properties.Resources.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.csproj.GenerateResource.Cache
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\RdlCompile.cache
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\RdlCompile.compiled
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.exe.manifest
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.application
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\COSMOS.exe.config
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.exe
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.pdb
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.AboutBox1.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmAlterarSenha.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerRevistas.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerProdutos.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerVendas.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerVendedores.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncProdutos.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncRevistas.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncVenda.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncVendedor.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmLogin.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmPrincipal.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.frmRelPedidos.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.Properties.Resources.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.csproj.GenerateResource.Cache
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\RdlCompile.cache
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\RdlCompile.compiled
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\rRelPedidos.rdlc
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\COSMOS.exe.manifest
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\COSMOS.application
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\COSMOS.exe
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\bin\Debug\COSMOS.pdb
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.exe.manifest
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\COSMOS\obj\Debug\COSMOS.application
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.exe.config
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.exe
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.pdb
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\rRelPedidos.rdlc
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.exe.manifest
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.application
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.exe
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\COSMOS.pdb
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.csprojResolveAssemblyReference.cache
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.AboutBox1.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmAlterarSenha.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerRevistas.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerProdutos.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerVendas.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmGerVendedores.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncProdutos.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncRevistas.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncVenda.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmIncVendedor.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmLogin.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmPrincipal.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmRelPedidos.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.Properties.Resources.resources
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.csproj.GenerateResource.Cache
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\RdlCompile.cache
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\RdlCompile.compiled
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.exe.manifest
+C:\Users\LeandroNote\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.application
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.frmBackup.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\obj\Debug\COSMOS.Form1.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\FlashControlV71.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\stdole.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\COSMOS\COSMOS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
